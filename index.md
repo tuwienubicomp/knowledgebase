@@ -6,7 +6,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHKjEWc8Cbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-ESP 32 pinout 
+ESP 32 Pinout
+
 https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf
 
 
