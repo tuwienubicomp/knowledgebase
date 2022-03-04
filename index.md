@@ -13,4 +13,4 @@ https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf
 
 ESP 8266 Pinout 
 
-![ESP8266 Pinout](/assets/ESP8266Pinout.jpg)
+![ESP8266 Pinout](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/ESP8266Pinout.jpg)
