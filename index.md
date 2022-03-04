@@ -1,16 +1,13 @@
 # Hardware Knowledge Base
 
+<img src="https://media.tuwien.ac.at/wp-content/uploads/2021/08/cropped-cropped-favicon-1-102x91.png" alt="ACUR Logo" style="position:absolute; top:0; right:0; padding:10px; height: 75px; width:75px;"/>
+
 
 ## Introduction - Hardware Kit
-### 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHKjEWc8Cbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-ESP 32 Pinout
+## [ESP32 Pinout](https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf)
 
-https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf
-
-
-ESP 8266 Pinout 
-
-![ESP8266 Pinout](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/ESP8266Pinout.jpg)
+## [ESP8266 Pinout](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/ESP8266Pinout.jpg)
