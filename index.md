@@ -11,3 +11,19 @@
 ## [ESP32 Pinout](https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf)
 
 ## [ESP8266 Pinout](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/ESP8266Pinout.jpg)
+
+
+<br>
+
+
+## Connecting to the board
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yxSpDjzhgpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+
+
+## Flashing the firmware onto the boards
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfQ0Q4Kdkbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
