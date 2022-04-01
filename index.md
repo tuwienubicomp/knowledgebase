@@ -27,3 +27,9 @@
 ## Flashing the firmware onto the boards
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfQ0Q4Kdkbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+## Digital input and output
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OlEb2jPtgaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
