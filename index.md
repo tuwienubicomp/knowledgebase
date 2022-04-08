@@ -33,3 +33,23 @@
 ## Digital input and output
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlEb2jPtgaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+## Creating a python script for your code
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Og35JhCPdTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+## Pulse-width Modulation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLHiolJnuV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+## Analog Input
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhgWD1Bp3IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
