@@ -105,9 +105,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0acJCUCUoDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## [Example code for webclient](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/webclient.py)
+
 <br>
 <br>
 
 ## Creating a Webserver on ESP Boards
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7YHdErmxxZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [Example code for webserver](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/webserver.py)
