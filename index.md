@@ -66,8 +66,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e8iv4mX5UOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-<br>
 
+
+## [Example circuit connection for Temperature Sensor](https://raw.githubusercontent.com/tuwienubicomp/knowledgebase/main/assets/Temperature%20sensor.pdf)
+
+<br>
+<br>
 
 ## Distance Sensor
 
@@ -79,3 +83,31 @@
 ## Motion Sensor and Timers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CT5_CMbBnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+
+## Using The ESP32 On-board Screen
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffF8vdtLVIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+
+## Connecting to a Network
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kq_TsluTa84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+
+## Connecting to a Server
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0acJCUCUoDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+
+## Creating a Webserver on ESP Boards
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7YHdErmxxZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
